@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>View.qml</file>
+        <file>images/car_left.png</file>
+        <file>images/car_right.png</file>
+    </qresource>
+</RCC>
